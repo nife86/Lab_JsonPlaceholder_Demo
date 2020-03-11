@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_JSONPlaceholder_Demo</string>
+    <string name="json_placeholder">JSON Placeholder</string>
+    <string name="request_api">Request API</string>
+
+    // dialog message
+    <string name="downloading_json">Waiting for JSON file downloading...</string>
+    <string name="downloading_photo">Waiting for photo downloading...</string>
+
+</resources>
